@@ -2,11 +2,11 @@
 layout: default
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac erat non nisl ornare ultrices. Aliquam erat volutpat. Morbi tincidunt lacus ac lorem suscipit fringilla.
+This page is an example of what the automatic table of contents generation would look like in practice.
 
 ## Side Note
 
-Praesent sagittis tortor ac nisl mollis, ac elementum neque facilisis. Morbi nec ultricies nunc, ut commodo enim. Aliquam pretium faucibus eros a bibendum. Donec malesuada interdum pretium. Nulla neque nisl, aliquet ut aliquam ut, sodales a arcu.
+This header is just here as an example of what an H2 would look like in the ToC if it appeared before any H1 headers. Note the section header does not appear in the ToC even though it is an H2.
 
 ## Sections
 
@@ -17,27 +17,63 @@ Praesent sagittis tortor ac nisl mollis, ac elementum neque facilisis. Morbi nec
 Details
 =======
 
-Etiam ultrices metus ac leo cursus, ac dignissim libero feugiat.
+This is the main part of the post.
 
 ## Part A
 
-Morbi sed bibendum risus. Vivamus cursus rhoncus turpis lobortis rutrum. Morbi imperdiet, arcu ut tempus feugiat, nulla massa porttitor odio, at sollicitudin ipsum lorem et enim.
+Here is a sub section.
 
 ### Part A Details
 
-In efficitur vel odio ac consequat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla sagittis gravida augue eget dignissim.
+This section does not appear in the ToC because it is an H3 and we specified `tags="H1,H2"`
 
 ## Part B
 
-Sed consequat et est id luctus. Donec sagittis massa sapien, et ullamcorper quam vestibulum quis. Duis interdum est ante, nec congue dolor accumsan sed.
+Here is another sub section.
 
 -----------
 
 Conclusions
 ===========
 
-Praesent ut neque lectus. Integer vehicula leo in elit interdum, id vulputate est sagittis. Proin pellentesque est id fringilla pellentesque. Integer volutpat facilisis est sit amet lacinia.
+This is another H1 header.
 
 ## Example
 
-Nam neque elit, tristique sed tempus vitae, convallis in nisl. Nulla pulvinar elit in nunc malesuada eleifend. Nam tellus justo, vestibulum non elit quis, varius tincidunt est.
+With a nested H2.
+
+Here
+
+is
+
+some
+
+text
+
+to
+
+make
+
+the
+
+page
+
+longer
+
+so
+
+the
+
+links
+
+to
+
+the
+
+sections
+
+are
+
+more
+
+obvious.
