@@ -4,15 +4,18 @@ layout: default
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac erat non nisl ornare ultrices. Aliquam erat volutpat. Morbi tincidunt lacus ac lorem suscipit fringilla.
 
-### Side Note
+## Side Note
 
 Praesent sagittis tortor ac nisl mollis, ac elementum neque facilisis. Morbi nec ultricies nunc, ut commodo enim. Aliquam pretium faucibus eros a bibendum. Donec malesuada interdum pretium. Nulla neque nisl, aliquet ut aliquam ut, sodales a arcu.
 
 ## Sections
 
-This is where the toc will go.
+{% include toc.html tags="H1,H2" ignore="#sections" %}
 
-# Details
+-------
+
+Details
+=======
 
 Etiam ultrices metus ac leo cursus, ac dignissim libero feugiat.
 
@@ -28,7 +31,10 @@ In efficitur vel odio ac consequat. Class aptent taciti sociosqu ad litora torqu
 
 Sed consequat et est id luctus. Donec sagittis massa sapien, et ullamcorper quam vestibulum quis. Duis interdum est ante, nec congue dolor accumsan sed.
 
-# Conclusions
+-----------
+
+Conclusions
+===========
 
 Praesent ut neque lectus. Integer vehicula leo in elit interdum, id vulputate est sagittis. Proin pellentesque est id fringilla pellentesque. Integer volutpat facilisis est sit amet lacinia.
 
