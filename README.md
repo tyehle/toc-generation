@@ -3,9 +3,9 @@ Table of Contents Generation
 
 Automatically generate a table of contents in Jekyll.
 
-See an [example page]().
+See an [example page](http://tobin.yehle.io/toc-generation/).
 
-Read about [the details]().
+Read about [the details](http://tobin.yehle.io/articles/table-of-contents).
 
 To Use
 ------
