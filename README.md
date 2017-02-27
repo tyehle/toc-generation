@@ -1,2 +1,1 @@
-# toc-generation
-Automatically generate table of contents in jekyll
+Example jekyll site for table of contents generation
